@@ -1,0 +1,57 @@
+   div{
+		width: 100%;
+		background-color: #fdf;
+		background: url('image/image.jpg') no-repeat;
+		background-size: cover;
+		height: 750px;
+		margin:  auto;
+		overflow: hidden;
+
+	}
+	h1{
+		margin-top: 100px;
+		margin-left: 350px;
+
+		font-size: 50px;
+		width: 650px;
+		border-bottom:3px solid #7fe686;
+		padding: 2px 0;
+		text-align: center;
+		color: #456123;
+		text-shadow: 3px 3px 3px #7fe686;
+		overflow: hidden; 
+	}
+	input{
+		background-color: #456123;
+		padding: 10px;
+		border: 3px solid #7fe686;
+		margin-top: : 100px  ;
+		display: block;
+		color: #fff;
+		font-size: 20px;
+		margin-left: 550px;
+		text-align: center;
+	}
+	button{
+		background-color: #456123;
+		display: block;
+		text-align: center;
+		font-size: 20px;
+		border: 3px solid #7fe686;
+		padding: 8px 20px;
+		color: #fff;
+		margin-top: 10px;
+		margin-left: 620px;
+	} 
+	li{
+		background-color: #a76e32;
+		padding: 5px;
+		
+		margin-top: : 100px  ;
+		display: block;
+		color: #fff;
+		font-size: 20px;
+		margin-left: 350px;
+		text-align: center;
+
+	}
